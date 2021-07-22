@@ -1,5 +1,7 @@
 # SpheroidsImageProcessing
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5121093.svg)](https://doi.org/10.5281/zenodo.5121093)
+
 This repository contains codes used to batch-process confocal images of spheroids encoded with FUCCI.
 
 ## Requirements
